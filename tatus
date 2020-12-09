@@ -1,0 +1,288 @@
+warning: LF will be replaced by CRLF in ob_work/.ipynb_checkpoints/Task1_6f8cd79bjson-checkpoint.ipynb.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ob_work/.ipynb_checkpoints/Task2_681b3aeb-checkpoint.ipynb.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in ob_work/Task1_6f8cd79bjson.ipynb.
+The file will have its original line endings in your working directory
+[1mdiff --git a/ob_work/.ipynb_checkpoints/Task1_6f8cd79bjson-checkpoint.ipynb b/ob_work/.ipynb_checkpoints/Task1_6f8cd79bjson-checkpoint.ipynb[m
+[1mindex a5bacf9..9b1802b 100644[m
+[1m--- a/ob_work/.ipynb_checkpoints/Task1_6f8cd79bjson-checkpoint.ipynb[m
+[1m+++ b/ob_work/.ipynb_checkpoints/Task1_6f8cd79bjson-checkpoint.ipynb[m
+[36m@@ -252,7 +252,7 @@[m
+   },[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 7,[m
+[32m+[m[32m   "execution_count": 18,[m
+    "metadata": {},[m
+    "outputs": [[m
+     {[m
+[36m@@ -272,7 +272,7 @@[m
+        "        [8, 8, 8, 8]])]"[m
+       ][m
+      },[m
+[31m-     "execution_count": 7,[m
+[32m+[m[32m     "execution_count": 18,[m
+      "metadata": {},[m
+      "output_type": "execute_result"[m
+     }[m
+[36m@@ -317,7 +317,7 @@[m
+   },[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 9,[m
+[32m+[m[32m   "execution_count": 11,[m
+    "metadata": {},[m
+    "outputs": [[m
+     {[m
+[36m@@ -330,7 +330,7 @@[m
+        "       [8, 8, 8, 8, 8]])"[m
+       ][m
+      },[m
+[31m-     "execution_count": 9,[m
+[32m+[m[32m     "execution_count": 11,[m
+      "metadata": {},[m
+      "output_type": "execute_result"[m
+     }[m
+[36m@@ -338,6 +338,13 @@[m
+    "source": [[m
+     "solve_6f8cd79b(np.array([[1,2,3,4,5],[1,2,3,4,5],[1,2,3,4,5],[1,2,3,4,5],[1,2,3,4,5]]))"[m
+    ][m
+[32m+[m[32m  },[m
+[32m+[m[32m  {[m
+[32m+[m[32m   "cell_type": "code",[m
+[32m+[m[32m   "execution_count": null,[m
+[32m+[m[32m   "metadata": {},[m
+[32m+[m[32m   "outputs": [],[m
+[32m+[m[32m   "source": [][m
+   }[m
+  ],[m
+  "metadata": {[m
+[1mdiff --git a/ob_work/.ipynb_checkpoints/Task2_681b3aeb-checkpoint.ipynb b/ob_work/.ipynb_checkpoints/Task2_681b3aeb-checkpoint.ipynb[m
+[1mindex 5c486d5..9d8f725 100644[m
+[1m--- a/ob_work/.ipynb_checkpoints/Task2_681b3aeb-checkpoint.ipynb[m
+[1m+++ b/ob_work/.ipynb_checkpoints/Task2_681b3aeb-checkpoint.ipynb[m
+[36m@@ -9,7 +9,7 @@[m
+   },[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 1,[m
+[32m+[m[32m   "execution_count": 8,[m
+    "metadata": {},[m
+    "outputs": [],[m
+    "source": [[m
+[36m@@ -27,7 +27,7 @@[m
+   },[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 2,[m
+[32m+[m[32m   "execution_count": 9,[m
+    "metadata": {},[m
+    "outputs": [[m
+     {[m
+[36m@@ -37,7 +37,7 @@[m
+        "<IPython.core.display.Image object>"[m
+       ][m
+      },[m
+[31m-     "execution_count": 2,[m
+[32m+[m[32m     "execution_count": 9,[m
+      "metadata": {},[m
+      "output_type": "execute_result"[m
+     }[m
+[36m@@ -55,7 +55,7 @@[m
+   },[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 3,[m
+[32m+[m[32m   "execution_count": 10,[m
+    "metadata": {},[m
+    "outputs": [],[m
+    "source": [[m
+[36m@@ -65,7 +65,7 @@[m
+   },[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 4,[m
+[32m+[m[32m   "execution_count": 11,[m
+    "metadata": {},[m
+    "outputs": [[m
+     {[m
+[36m@@ -153,7 +153,7 @@[m
+        "    [0, 0, 0, 0, 0, 0, 0, 0, 8, 0]]}]}"[m
+       ][m
+      },[m
+[31m-     "execution_count": 4,[m
+[32m+[m[32m     "execution_count": 11,[m
+      "metadata": {},[m
+      "output_type": "execute_result"[m
+     }[m
+[36m@@ -171,7 +171,7 @@[m
+   },[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 5,[m
+[32m+[m[32m   "execution_count": 59,[m
+    "metadata": {},[m
+    "outputs": [[m
+     {[m
+[36m@@ -211,7 +211,7 @@[m
+        "        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]])"[m
+       ][m
+      },[m
+[31m-     "execution_count": 5,[m
+[32m+[m[32m     "execution_count": 59,[m
+      "metadata": {},[m
+      "output_type": "execute_result"[m
+     }[m
+[36m@@ -220,30 +220,32 @@[m
+     "train = data['train']\n",[m
+     "train = [i['input'] for i in train]\n",[m
+     "train = np.array(train)\n",[m
+[32m+[m[32m    "# Get rid of the (1, 10, 10) shape and make it (10, 10) for each of the 3 inputs\n",[m
+[32m+[m[32m    "train = np.squeeze(train)\n",[m
+     "train"[m
+    ][m
+   },[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 6,[m
+[32m+[m[32m   "execution_count": 60,[m
+    "metadata": {},[m
+    "outputs": [[m
+     {[m
+      "data": {[m
+       "text/plain": [[m
+[31m-       "array([[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0],\n",[m
+[31m-       "        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],\n",[m
+[31m-       "        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],\n",[m
+[31m-       "        [0, 0, 0, 0, 0, 8, 0, 0, 0, 0],\n",[m
+[31m-       "        [0, 0, 0, 8, 8, 0, 0, 0, 0, 0],\n",[m
+[31m-       "        [0, 0, 0, 8, 8, 0, 0, 0, 0, 0],\n",[m
+[31m-       "        [0, 0, 8, 0, 0, 8, 0, 0, 0, 0],\n",[m
+[31m-       "        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],\n",[m
+[31m-       "        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],\n",[m
+[31m-       "        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]])"[m
+[32m+[m[32m       "array([[0, 0, 0, 0, 0, 0, 0, 0, 0, 0],\n",[m
+[32m+[m[32m       "       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],\n",[m
+[32m+[m[32m       "       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],\n",[m
+[32m+[m[32m       "       [0, 0, 0, 0, 0, 8, 0, 0, 0, 0],\n",[m
+[32m+[m[32m       "       [0, 0, 0, 8, 8, 0, 0, 0, 0, 0],\n",[m
+[32m+[m[32m       "       [0, 0, 0, 8, 8, 0, 0, 0, 0, 0],\n",[m
+[32m+[m[32m       "       [0, 0, 8, 0, 0, 8, 0, 0, 0, 0],\n",[m
+[32m+[m[32m       "       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],\n",[m
+[32m+[m[32m       "       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],\n",[m
+[32m+[m[32m       "       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]])"[m
+       ][m
+      },[m
+[31m-     "execution_count": 6,[m
+[32m+[m[32m     "execution_count": 60,[m
+      "metadata": {},[m
+      "output_type": "execute_result"[m
+     }[m
+[36m@@ -252,8 +254,52 @@[m
+     "test = data['test']\n",[m
+     "test = [i['input'] for i in test]\n",[m
+     "test = np.array(test)\n",[m
+[32m+[m[32m    "# Get rid of the (1, 10, 10) shape and make it (10, 10)\n",[m
+[32m+[m[32m    "test = (np.squeeze(test))\n",[m
+     "test"[m
+    ][m
+[32m+[m[32m  },[m
+[32m+[m[32m  {[m
+[32m+[m[32m   "cell_type": "markdown",[m
+[32m+[m[32m   "metadata": {},[m
+[32m+[m[32m   "source": [[m
+[32m+[m[32m    "Can I use np.where to find the square within the matrix?"[m
+[32m+[m[32m   ][m
+[32m+[m[32m  },[m
+[32m+[m[32m  {[m
+[32m+[m[32m   "cell_type": "code",[m
+[32m+[m[32m   "execution_count": 74,[m
+[32m+[m[32m   "metadata": {},[m
+[32m+[m[32m   "outputs": [[m
+[32m+[m[32m    {[m
+[32m+[m[32m     "data": {[m
+[32m+[m[32m      "text/plain": [[m
+[32m+[m[32m       "(array([3, 4, 4, 5, 5, 6, 6], dtype=int64),\n",[m
+[32m+[m[32m       " array([5, 3, 4, 3, 4, 2, 5], dtype=int64))"[m
+[32m+[m[32m      ][m
+[32m+[m[32m     },[m
+[32m+[m[32m     "execution_count": 74,[m
+[32m+[m[32m     "metadata": {},[m
+[32m+[m[32m     "output_type": "execute_result"[m
+[32m+[m[32m    }[m
+[32m+[m[32m   ],[m
+[32m+[m[32m   "source": [[m
+[32m+[m[32m    "np.where(test > 0)"[m
+[32m+[m[32m   ][m
+[32m+[m[32m  },[m
+[32m+[m[32m  {[m
+[32m+[m[32m   "cell_type": "markdown",[m
+[32m+[m[32m   "metadata": {},[m
+[32m+[m[32m   "source": [[m
+[32m+[m[32m    "When I find the square I need to find if there is a square diagonal to the points: 4 ifs"[m
+[32m+[m[32m   ][m
+[32m+[m[32m  },[m
+[32m+[m[32m  {[m
+[32m+[m[32m   "cell_type": "markdown",[m
+[32m+[m[32m   "metadata": {},[m
+[32m+[m[32m   "source": [[m
+[32m+[m[32m    "Finally I need to duplicate it using some sort of slicing maybe?\n"[m
+[32m+[m[32m   ][m
+   }[m
+  ],[m
+  "metadata": {[m
+[1mdiff --git a/ob_work/Task1_6f8cd79bjson.ipynb b/ob_work/Task1_6f8cd79bjson.ipynb[m
+[1mindex a5bacf9..9b1802b 100644[m
+[1m--- a/ob_work/Task1_6f8cd79bjson.ipynb[m
+[1m+++ b/ob_work/Task1_6f8cd79bjson.ipynb[m
+[36m@@ -252,7 +252,7 @@[m
+   },[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 7,[m
+[32m+[m[32m   "execution_count": 18,[m
+    "metadata": {},[m
+    "outputs": [[m
+     {[m
+[36m@@ -272,7 +272,7 @@[m
+        "        [8, 8, 8, 8]])]"[m
+       ][m
+      },[m
+[31m-     "execution_count": 7,[m
+[32m+[m[32m     "execution_count": 18,[m
+      "metadata": {},[m
+      "output_type": "execute_result"[m
+     }[m
+[36m@@ -317,7 +317,7 @@[m
+   },[m
+   {[m
+    "cell_type": "code",[m
+[31m-   "execution_count": 9,[m
+[32m+[m[32m   "execution_count": 11,[m
+    "metadata": {},[m
+    "outputs": [[m
+     {[m
+[36m@@ -330,7 +330,7 @@[m
+        "       [8, 8, 8, 8, 8]])"[m
+       ][m
+      },[m
+[31m-     "execution_count": 9,[m
+[32m+[m[32m     "execution_count": 11,[m
+      "metadata": {},[m
+      "output_type": "execute_result"[m
+     }[m
+[36m@@ -338,6 +338,13 @@[m
+    "source": [[m
+     "solve_6f8cd79b(np.array([[1,2,3,4,5],[1,2,3,4,5],[1,2,3,4,5],[1,2,3,4,5],[1,2,3,4,5]]))"[m
+    ][m
+[32m+[m[32m  },[m
+[32m+[m[32m  {[m
+[32m+[m[32m   "cell_type": "code",[m
+[32m+[m[32m   "execution_count": null,[m
+[32m+[m[32m   "metadata": {},[m
+[32m+[m[32m   "outputs": [],[m
+[32m+[m[32m   "source": [][m
+   }[m
+  ],[m
+  "metadata": {[m
