@@ -10,6 +10,12 @@ We put a lot of emphasis on humans vs. AI but I had never thought of it being in
 
 couldn't be a fairer statement. In designing my solutions I first thought how could I simply get all the correct training and test sequences done. However the further I delved the more I desired to generalize my functions to work with any compatible inputs; to allow for adaptabilty of my code into a possible machine learning process. I looked beyond the simple right solution and instead tried to think of my work in terms of Chollet's proposal for AI. I really feel I understand the goals of what we strive to achieve now more and I'm not just saying that for more marks I truly believe it :). 
 
+<<<<<<< HEAD
 In general all of these tasks can be solved with numpy functions acting upon arrays, along with basic python functionality like dictionaries, lambda functions and list slicing. The tasks really challenege you to think outside of your comfort zone and in doing so alongside Chollet's paper I feel I definitely achieved that and a new level of understanding to what I want to achieve. Not every task will have the same solution but I feel training a model to spot specific problem types and using specific functions to solve them would be the way to do it. 
 
 Could all of these 400 tasks be solved simply using a model incorporating numpy? I certainly wouldn't have thought so before starting out but now I am more confident in that premise. 
+=======
+In general all of these tasks can be solved with numpy functions acting upon arrays, along with basic python functionality like dictionaries, lambda functions and list slicing. The tasks really challenege you to think outside of your comfort zone and in doing so alongside Chollet's paper I feel I definitely achieved that and a new level of understanding to what I want to achieve.  
+
+Could all of these 400 tasks be solved simply using a model incorporating numpy? I certainly wouldn't have thought so before starting out but now I am more confident in that premise.
+>>>>>>> d8828c7b3dc9d878dd6f8f798d324cdf9598cca9
