@@ -135,11 +135,14 @@ def solve_e9afcf9a(x: np.array):
 
 Reflection:
 
-I was able to complete all tasks simply just using numpy and basic python properties like slicing, dictionaries, lambda functions and for loops
+I was able to complete all tasks simply just using numpy and basic python properties like slicing, dictionaries, lambda functions and for loops.
 The tasks all linked through numpy and the manipulation of arrays. It got me thinking about whether all of these tasks could be solved with
 a single numpy function with different parameters and statements. I came across a paper online (https://arxiv.org/abs/2011.09860) in fact that claims a model accuracy of 78% on the dataset using one algorithm!
-The tasks themselves to me took a lot of careful thought to code even thoughthey could be easily solved by my brain. 
+
+The tasks themselves to me took a lot of careful thought to code even though they could be easily solved by my brain. 
 I can see how the ultimate goal of ARC aligns with the assignment in getting us to think about how we code and finding efficient ways of doing things in the simplest way possible! 
+I go into more depth on this in my README, but the definition of intelligence and the need for an adaption in order to fully push AI forward is a challenging but worthwhile endeavour
+and the creation of a dataset such as this that can help push that is astonishing to say the least!
 
 '''
 
